@@ -1,0 +1,6 @@
+/node_modules
+/keys
+*.pdf
+/scholarship-bills
+.env
+/modules/employee-central/uploaded
